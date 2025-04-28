@@ -15,4 +15,4 @@ As part of my Business Intelligence with MS Excel course conducted by the United
 5.Utilized advanced Excel tools such as pivot tables, charts, conditional formatting, and formula-based logic to perform in-depth analysis and present data-driven findings in an engaging manner.
 
   ##  Excel:
-     https://drive.google.com/file/d/1VchreWz9bwjPxA0PBy1lvkxa-joglj5l/view?usp=sharing
+     https://1drv.ms/x/c/d4680bcdc0b8af41/ET6K-0qovXZHlD9n_-EmmFcBes8BCTlUEJNhhxG53pcF0w?e=9d2JIk
